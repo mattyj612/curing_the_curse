@@ -1,0 +1,29 @@
+# -----------------------------------------------------------------------------
+# Site settings
+# -----------------------------------------------------------------------------
+name: Curing the Curse of Knowledge
+title: Curing the Curse
+email: course@curingthecurse.com
+description: A course to improve your writing.
+
+url:  #matthewleejordan.com # the base hostname & protocol for your site
+
+# -----------------------------------------------------------------------------
+# Social integration
+# -----------------------------------------------------------------------------
+twitter_username: curingthecurse
+
+show_social_icons:  true
+
+# -----------------------------------------------------------------------------
+# Jekyll settings
+# -----------------------------------------------------------------------------
+
+# Build settings
+markdown: kramdown
+
+# Plug-ins
+plugins:
+    - jekyll-email-protect
+    - jekyll-paginate
+    - jemoji
