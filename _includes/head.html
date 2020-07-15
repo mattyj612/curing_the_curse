@@ -2,40 +2,40 @@
     <title>{{ page.title }}</title>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
-    <meta name="viewport" content="width=device-width,initial-scale=1.0">
-    <link rel="stylesheet" href="/css/main.css">
-    <link rel="shortcut icon" type="image/png" href="/assets/img/favicon.png">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Noto+Serif">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Noto+Sans">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0"/>
+    <link rel="stylesheet" href="/css/main.css"/>
+    <link rel="shortcut icon" type="image/png" href="/assets/img/favicon.png"/>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Noto+Serif"/>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Noto+Sans"/>
 
     <!-- Twitter card -->
-    <meta name="twitter:card" content="summary">
-    <meta name="twitter:site" content="@curingthecurse_">
-    <meta name="twitter:creator" content="@curingthecurse_">
+    <meta name="twitter:card" content="summary"/>
+    <meta name="twitter:site" content="@curingthecurse_"/>
+    <meta name="twitter:creator" content="@curingthecurse_"/>
     {% if page.title %}
-        <meta name="twitter:title" content="{{ page.title }}">
+        <meta name="twitter:title" content="{{ page.title }}"/>
         <meta property="og:title" content="{{ page.title }}"/>
     {% else %}
-        <meta name="twitter:title" content="{{ site.title }}">
+        <meta name="twitter:title" content="{{ site.title }}"/>
         <meta property="og:title" content="{{ site.title }}"/>
     {% endif %}
     {% if page.url %}
-        <meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
+        <meta name="twitter:url" content="{{ site.url }}{{ page.url }}"/>
         <meta property="og:url" content="{{ site.title }}{{ page.url }}"/>
     {% endif %}
     {% if page.description %}
-        <meta name="twitter:description" content="{{ page.description }}">
+        <meta name="twitter:description" content="{{ page.description }}"/>
         <meta property="og:description" content="{{ page.description }}"/>
     {% else %}
-        <meta name="twitter:description" content="{{ site.description }}">
+        <meta name="twitter:description" content="{{ site.description }}"/>
         <meta property="og:description" content="{{ site.description }}"/>
     {% endif %}
     {% if page.image %}
-        <meta name="twitter:image:src" content="{{ site.url }}/path/to/image/{{ page.image }}">
+        <meta name="twitter:image" content="{{ site.url }}/path/to/image/{{ page.image }}"/>
         <meta property="og:image" content="{{ site.url }}/path/to/image/{{ page.image }}"/>
     {% else %}
-        <meta name="twitter:image:src" content="{{ site.url }}/assets/img/favicon.png">
-        <meta property="og:image" content="{{ site.url }}/assets/img/favicon.png"/>
+        <meta name="twitter:image" content="https://i.imgur.com/575BTZX.png"/>
+        <meta property="og:image" content="https://i.imgur.com/575BTZX.png"/>
     {% endif %}
     <!-- end of Twitter card -->
 
