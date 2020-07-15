@@ -1,21 +1,12 @@
 <!DOCTYPE html>
+<html>
+{% include head.html %}
 
-<html xmlns:fb="http://ogp.me/ns/fb#">
-
-    {% include head.html %}
-
-    <body>
-
+<body>
     {% include header.html %}
-
-    <div class="page-content">
-      <div class="wrapper">
-          {{ content }}
-      </div>
+    <div class="content">
+        {{ content }}
     </div>
-
-    {% include hemline.html %}
-
-    </body>
+</body>
 
 </html>
