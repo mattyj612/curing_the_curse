@@ -2,8 +2,8 @@
 title: "Lesson 3: Bottom-Up Explanations"
 layout: page
 permalink: /bottom-up-explanations/
-prev: <a href="/reader-centric-writing/"><< 2. Reader-Centric Writing</a>
-next: <a href="/beware-noun-phrases/">4. Beware Noun Phrases >></a>
+prev: <a href="/reader-centric-writing/">Reader-Centric Writing</a>
+next: <a href="/beware-noun-phrases/">Beware Noun Phrases</a>
 ---
 
 Hello and welcome to lesson three of Curing the Curse of Knowledge! In the previous lesson, we argued that reader-centric writing is an act of empathy that most people rarely practice. This time, we discuss a form of writing that requires immense empathy for readers: explanation.
@@ -42,6 +42,6 @@ For this lesson’s activity, we’d like you to rearrange the following explana
 
 > A garden path sentence is one that leads the reader “down the garden path” to an interpretive dead end, forcing them to stop and reread. This effect is usually caused by pairs of words whose statistical associations suggest unintended grammatical functions. For example, consider the sentence, “The old man the boat.” Believe it or not, the sentence is grammatically sound. The problem is that the words ‘old’ and ‘man’, which are often used together, are not serving their usual purposes. Here, ‘old’ is not an adjective but a noun (meaning ‘the old people’), and ‘man’ is not a noun but a verb (meaning ‘to operate’). Therefore, the sentence means “the old people operate the boat.”
 
-Send us your bottom-up version, and we’ll send you ours!
+<a href="mailto:course@curingthecurse.com">Send us</a> your bottom-up version to, and we’ll send you ours!
 
 In our next lesson, we’ll show you how to produce clearer writing at the sentence level.

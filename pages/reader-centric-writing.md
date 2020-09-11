@@ -2,8 +2,8 @@
 title: "Lesson 2: Reader-Centric Writing"
 layout: page
 permalink: /reader-centric-writing/
-prev: <a href="/the-curse/"><< 1. The Curse</a>
-next: <a href="/bottom-up-explanations/">3. Bottom-Up Explanations >></a>
+prev: <a href="/the-curse/">The Curse</a>
+next: <a href="/bottom-up-explanations/">Bottom-Up Explanations</a>
 ---
 
 Hello and welcome to lesson two of Curing the Curse of Knowledge! Last time, we tried to persuade you that the Curse of Knowledge is a major cause of bad writing. In this lesson, we discuss the best antidote to the Curse of Knowledge: reader-centric writing.

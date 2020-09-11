@@ -2,7 +2,7 @@
 title: "Lesson 5: Seek Feedback"
 layout: page
 permalink: /seek-feedback/
-prev: <a href="/beware-noun-phrases/"><< 4. Beware Noun Phrases</a>
+prev: <a href="/beware-noun-phrases/">Beware Noun Phrases</a>
 ---
 
 Hello and welcome to the final lesson in Curing the Curse of Knowledge! Today, we discuss the most important thing you must do to overcome the Curse of Knowledge: seek feedback.

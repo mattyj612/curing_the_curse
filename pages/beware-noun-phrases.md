@@ -2,8 +2,8 @@
 title: "Lesson 4: Beware Noun Phrases"
 layout: page
 permalink: /beware-noun-phrases/
-prev: <a href="/bottom-up-explanations/"><< 3. Bottom-Up Explanations</a>
-next: <a href="/seek-feedback/">5. Seek Feedback >></a>
+prev: <a href="/bottom-up-explanations/">Bottom-Up Explanations</a>
+next: <a href="/seek-feedback/">Seek Feedback</a>
 ---
 
 Hello and welcome to lesson four of Curing the Curse of Knowledge! In the previous lesson, we said that the Curse of Knowledge causes writers to think in abstractions, which leads them to write top-down explanations when bottom-up explanations would be more clear. In this lesson, we want to show you that abstractions don’t just impair writing on the level of documents and paragraphs. They also wreak havoc on sentences.
@@ -48,6 +48,6 @@ For this lesson’s activity, your goal is to highlight the noun phrases in the 
 
 > In this talk, I will present recent work on population dynamics in changing environments, merging biological realism with tractable stochastic models. Firstly, I will describe a model of drug resistance evolution in chronic viral infections, which serves as a case study for a novel mathematical approach yielding analytical approximations for the probability of rescue. Secondly, I will present a combined theoretical and experimental investigation of the classical problem of establishment (non-extinction) of new lineages, using antibiotic-resistant bacteria as a model system. Finally, I will discuss some future directions in modelling antibiotic treatment to predict optimal dosing strategies, and in developing a general theoretical framework for evolutionary rescue that unites approaches to distinct applied problems.
 
-Send us your highlighted or rewritten versions, and we’ll send you ours!
+<a href="mailto:course@curingthecurse.com">Send us</a> your highlighted or rewritten versions, and we’ll send you ours!
 
 The final lesson in Curing the Curse of Knowledge will focus on the single most valuable resource you have as a writer: a trusted editor.

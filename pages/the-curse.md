@@ -2,8 +2,8 @@
 title: "Lesson 1: The Curse"
 layout: page
 permalink: /the-curse/
-prev: <a href="/"><< Table of Contents</a>
-next: <a href="/reader-centric-writing/">2. Reader-Centric Writing >></a>
+prev: <a href="/">Table of Contents</a>
+next: <a href="/reader-centric-writing/">Reader-Centric Writing</a>
 ---
 
 Hello and welcome to the first lesson in Curing the Curse of Knowledge! Our goal today is to convince you that the Curse of Knowledge is a real and pervasive problem, and a major cause of bad writing.
