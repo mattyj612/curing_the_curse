@@ -10,6 +10,8 @@
     <meta name="twitter:card" content="summary"/>
     <meta name="twitter:site" content="@curingthecurse_"/>
     <meta name="twitter:creator" content="@curingthecurse_"/>
+    <meta name="og:type" content="blog"/>
+    <meta property="fb:app_id" content="APPID"/>
     {% if page.title %}
         <meta name="twitter:title" content="{{ page.title }}"/>
         <meta property="og:title" content="{{ page.title }}"/>
@@ -19,7 +21,7 @@
     {% endif %}
     {% if page.url %}
         <meta name="twitter:url" content="{{ site.url }}{{ page.url }}"/>
-        <meta property="og:url" content="{{ site.title }}{{ page.url }}"/>
+        <meta property="og:url" content="{{ site.url }}{{ page.url }}"/>
     {% endif %}
     {% if page.description %}
         <meta name="twitter:description" content="{{ page.description }}"/>
