@@ -17,7 +17,7 @@ Is it time to publish? Probably not. No matter how well you followed these steps
 
 You likely don’t need convincing that feedback is useful. Making great things is hard, and many minds are better than just one. But we are making a stronger point: no one can actually write clearly on their own. To produce clear writing, **feedback is more than just useful; it’s necessary**.
 
-A clear piece of writing is not just one that readers can understand. It’s one that readers do understand, effortlessly, on their first try. Reading a clear piece of writing does not feel like work. It feels like you’re in conversation with a trusted friend. It is one of life’s great joys.
+A clear piece of writing is not just one that readers _can_ understand. It’s one that readers _do_ understand, effortlessly, on their first try. Reading a clear piece of writing does not feel like work. It feels like you’re in conversation with a trusted friend. It is one of life’s great joys.
 
 A piece of writing like this can only be produced with an immense amount of feedback. Take these emails for instance. The process for writing each 1000-word lesson involves many rounds of feedback:
 
