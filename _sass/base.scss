@@ -6,12 +6,12 @@ body {
     margin-left: auto;
     margin-right: auto;
     width: 98%;
-    font-family: 'Noto Sans';
+    font-family: Arial, Helvetica, sans-serif;
     word-wrap: break-word;
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Noto Serif';
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 h1 {
@@ -79,10 +79,16 @@ a {
     color: #0074D9;
 }
 
-p, ul, ol, li {
+p, ul, ol {
     line-height: 1.6;
-    margin-block-start: 0.5rem;
-    margin-block-end: 0.5rem;
+    margin-block-start: 1.2em;
+    margin-block-end: 1.2em;
+}
+
+li {
+    line-height: 1.6;
+    margin-block-start: 0.6em;
+    margin-block-end: 0.6em;
 }
 
 blockquote {
@@ -90,8 +96,8 @@ blockquote {
     margin: 0 0;
     padding: 0 20px 0 20px;
     border-left: 3px solid #0074D9;
-    margin-block-start: 0.5rem;
-    margin-block-end: 0.5rem;
+    margin-block-start: 1.2em;
+    margin-block-end: 1.2em;
 }
 
 code {
@@ -134,16 +140,23 @@ hr {
     margin-bottom: 1rem;
 }
 
+table, tr, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 15px;
+    margin-block-end: 1.2em;
+}
+
 /* Utilities -------------------------------------------------------------------------------------------------------- */
 
-.article-content {
+.article-content, .signup-form {
     width: 100%;
     margin-right: auto;
     margin-left: auto;
 }
 
 .banner {
-    width: 60%;
+    width: 80%;
 }
 
 .content {
@@ -159,24 +172,6 @@ a:hover {
     color:rgb(133, 194, 248);
 }
 
-.signup-form {
-    width: 90%;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-.site-header {
-    padding-left: 15px;
-    padding-right: 15px;
-    padding-bottom: 0px;
-    padding-top: 15px;
-    margin: 0px;
-    margin-right: auto;
-    margin-left: auto;
-    text-align: left;
-}
-
 /* Media queries ---------------------------------------------------------------------------------------------------- */
 
 /* For mobile phones: */
@@ -184,13 +179,12 @@ a:hover {
     width: 95%;
     margin-top: 0;
     display: inline-block;
-    text-align: left;
+    text-align: justify;
     vertical-align: top;
 }
 
 /* For tablets: */
 @media only screen and (min-width: 600px) {
-    .banner {width: 50%;}
     .col-s-1 {width: 7.33%;}
     .col-s-2 {width: 15.66%;}
     .col-s-3 {width: 24%;}
@@ -204,11 +198,11 @@ a:hover {
     .col-s-11 {width: 90.66%;}
     .col-s-12 {width: 100%;}
     .content {width: 90%;}
+    .banner {width: 60%;}
 }
 
 /* For medium-sized desktop: */
 @media only screen and (min-width: 800px) {
-    .banner {width: 33%;}
     .col-m-1 {width: 7.33%;}
     .col-m-2 {width: 15.66%;}
     .col-m-3 {width: 24%;}
@@ -228,6 +222,7 @@ a:hover {
         margin-left: auto;
         margin-right: auto;
     }
+    .banner {width: 40%;}
 }
 
 /* For large desktop: */

@@ -1,0 +1,32 @@
+<div class="content">
+    <div class="container">
+        <div class="col-8 col-m-8 col-s-11">
+            {% if page.prev and page.next %}
+            <center>
+                <table style="width:100%;">
+                    <colgroup>
+                        <col style="width:50%;">
+                        <col style="width:50%;">
+                        </colgroup>
+                    <tr>
+                        <td style="text-align:center;">{{ page.prev }}</td>
+                        <td style="text-align:center;">{{ page.next }}</td>
+                    </tr>
+                </table>
+            </center>
+            {% elsif page.prev %}
+            <center>
+                <table style="width:100%;">
+                    <colgroup>
+                        <col style="width:100%;">
+                    </colgroup>
+                    <tr>
+                        <td style="text-align:center;">{{ page.prev }}</td>
+                    </tr>
+                </table>
+            </center>
+            {% else %}
+            {% endif %}
+        </div>
+    </div>
+</div>
