@@ -11,4 +11,4 @@ Even the most brilliant people struggle to produce writing that readers value. T
 3. [Bottom-Up Explanations](/bottom-up-explanations/)
 4. [Beware Noun Phrases](/beware-noun-phrases/)
 5. [Seek Feedback](/seek-feedback/)
-<p style="margin-left:25px;margin-top:-0.6em;"><a href="/acknowledgments/">Acknowledgments</a></p>
+<p style="margin-left:25px;margin-top:-0.6em;"><a href="/acknowledgements/">Acknowledgements</a></p>
