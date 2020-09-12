@@ -1,5 +1,10 @@
 /* General styles --------------------------------------------------------------------------------------------------- */
 
+@font-face {
+  font-family: Convergence;
+  src: url('https://curingthecurse.com/assets/fonts/Convergence/Convergence-Regular.tff');
+}
+
 body {
     background-color: white;
     color: black;
@@ -22,6 +27,7 @@ h1 {
     margin-left: 0;
     margin-right: 0;
     font-weight: bold;
+    font-family: Convergence;
 }
 
 h2 {
