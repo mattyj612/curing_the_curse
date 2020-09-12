@@ -1,6 +1,7 @@
 ---
 layout: page
 permalink: /
+title: Curing the Curse of Knowledge
 ---
 
 Even the most brilliant people struggle to produce writing that readers value. The reason is the _Curse of Knowledge_: once you know something, it's hard to imagine what it would be like not to know it. Curing the Curse of Knowledge is a series of lessons that will help you better anticipate your readers' states of mind.
