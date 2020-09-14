@@ -42,7 +42,7 @@ Clapping a song is not so different from writing. With the clapping exercise, yo
 
 What can be done? Well, there is good news and bad news.
 
-The bad news is that **the Curse of Knowledge can’t really be cured**. Sorry; it was an alliterative title. Sue us. If you want to write well, prepare yourself to wrestle with the Curse of Knowledge till the end of your days. Not only that, but the curse will get stronger the more you learn. The more expert you become, the harder you will have to work to share your knowledge with others who haven't gone as far down the same path.
+The bad news is that **the Curse of Knowledge can’t really be cured**. Sorry, 'Curing the Curse' sounded cool. Sue us. If you want to write well, prepare yourself to wrestle with the Curse of Knowledge till the end of your days. Not only that, but the curse will get stronger the more you learn. The more expert you become, the harder you will have to work to share your knowledge with others who haven't gone as far down the same path.
 
 The good news is that the Curse of Knowledge can be managed, and this will make all the difference in your craft as a writer. The key to managing the Curse is to adopt a reader-centered approach to writing, which will be the theme of next week’s lesson. In subsequent weeks, we will show you how to:
 
