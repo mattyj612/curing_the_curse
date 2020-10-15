@@ -12,3 +12,7 @@ Even the most brilliant people struggle to write clearly. The reason is the _Cur
 4. [Beware Noun Phrases](/beware-noun-phrases/)
 5. [Seek Feedback](/seek-feedback/)
 <p style="margin-left:25px;margin-top:-0.6em;"><a href="/acknowledgements/">Acknowledgements</a></p>
+
+<hr>
+
+Think we could help you or your team write more clearly? Drop us a line [here](course@curingthecurse.com).
