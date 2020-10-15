@@ -15,4 +15,4 @@ Even the most brilliant people struggle to write clearly. The reason is the _Cur
 
 <hr>
 
-Think we could help you or your team write more clearly? Drop us a line [here](course@curingthecurse.com).
+Think we could help you or your team write more clearly? Drop us a line [here](mailto:course@curingthecurse.com).
